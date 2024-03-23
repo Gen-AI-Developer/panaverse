@@ -1,3 +1,3 @@
-## File Contain Code related to Applied Generative AI Engneering 
-  ** Javascipt
-  ** Python / JupyterNoteBook Files
+# File contains code related to Applied Generative AI Engineering 
+    ** Javascript
+    ** Python / JupyterNoteBook Files
