@@ -1,0 +1,38 @@
+sync:
+
+async:
+
+thread:
+
+single-thread:
+
+multi-thread:
+
+event loop: 
+the event loop in javescript manages asynchronous task with in the context
+ of the main thd. while sync task are handled directly by the main thd, the event 
+ loop primarily the exevution flow of async tasks, ensuring they are processed 
+ without blocking the main thread.
+
+callback:
+a cb function in js function that's passed as an argument to another 
+function and is intended to be executed later, usually after some async ops 
+completes or in response to some event.
+
+callback functions allow you to define behavior that should happen once 
+a cetain task is finished or an event occurs.
+they are commonly used in async programming to handle 
+the results of async tasks, duch as fetching data from a server, 
+reading a file, or responding to user interactions.
+
+function greet(item:string):string{
+    return item;
+}
+function logitemsysnc(item:number){
+    console.log(number)
+}
+
+
+promiceses:
+
+
